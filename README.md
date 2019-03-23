@@ -7,6 +7,6 @@
 ## Directory structure
 
 .
-- root
-  -- Python Problem
-  -- CV Problem
+|-root
+  |--Python Problem
+  |--CV Problem
