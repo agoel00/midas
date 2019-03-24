@@ -4,7 +4,7 @@
 
 2. NLP Solution - [GitHub](https://github.com/agoel00/midas/blob/master/root/NLP_Problem/nlp.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/agoel00/midas/blob/master/root/NLP_Problem/nlp.ipynb)
 
-3. Computer Vision Solution - [GitHub](https://github.com/agoel00/midas/blob/master/root/CV_Problem/midasCV2.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/agoel00/midas/blob/master/root/CV_Problem/midasCV2.ipynb)
+3. Computer Vision Solution - [GitHub](https://github.com/agoel00/midas/blob/master/root/CV_Problem/cv.ipynb) | [nbviewer](https://nbviewer.jupyter.org/github/agoel00/midas/blob/master/root/CV_Problem/cv.ipynb)
 
 ## Directory Structure
 
