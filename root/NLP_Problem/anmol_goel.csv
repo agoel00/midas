@@ -45,7 +45,7 @@
 43,10267,If Microsoft created some incentives like a free device (Blackberry did this) and a free year of membership (Amazon did this) it could drive a lot of developers to the platform which is crucial to the platform taking off.,1
 44,10297,I would be a really nice gesture to have an option wich can put everything to the other side so when left handed people scroll they could also see the content.,1
 45,10389,It would be great to be able to have the emulator location data use the NMEA file format - either via file import/export or using the files directly as a feed.,1
-46,10408,currently you can only pin an album but it would be useful if you can pin a single image as a tile.. that way you have easy access to a it.,1
+46,10408,currently you can only pin an album but it would be useful if you can pin a single image as a tile.. that way you have easy access to a it.,0
 47,10459,why shouldn't I as user be able to see reviews made by people from other countries?,0
 48,10469,For apps that synchronize or connect to networks sporadically it would be handy to have an easy way to detect if you are on a cheap connection so if WiFi is connected or the device is connected to the web via USB.,1
 49,10474,So suggestion is to add properties like âIsWiFiConnectedâ and âIsCableConnectedâ to DeviceNetworkInformation that execute fast.,1
@@ -57,10 +57,10 @@
 55,10583,in addition the user should be able to take a scree shot within the multitasking area by using a finger gesture to drag the app towarda the bottom of the screen a screen capture icon should appear and the outer edges of the icon should fill with green and onve the edges are completly green a photograph noise will occur allow with a sudden screen flare to tell the user the screen shot has been taken and saved in the saved images folder,1
 56,10600,We need the ability for developers to add relevant tags to their app descriptions we then need the ability to search for apps with those tags tags should also be verified during app submission to ensure theyre relevant,1
 57,10633,It will be pleasant to go the main page of the app in the marketplace to see the general prÃ©sentation screenshots & the other users reviews,1
-58,10636,Allow user to send Video Audio and more pictures in an MMS now only one pic is supported,1
+58,10636,Allow user to send Video Audio and more pictures in an MMS now only one pic is supported,0
 59,10649,Allow access to raw data such as signal strength imformation to allow creation of indoor location positioning using available wifi bluetooth or cellular networks when no gps data is available.,1
 60,10655,Since windows phones are selling hot in countries like India browser should start displaying Indian language characters.,1
-61,10677,And a smart dialer can then be a full alternative to the built-in phone app since the app also can have a quick-button for goto the regular phone app whenever the user wants to do that.,1
+61,10677,And a smart dialer can then be a full alternative to the built-in phone app since the app also can have a quick-button for goto the regular phone app whenever the user wants to do that.,0
 62,10678,As an alternative to giving write-access to calendar (which can be hard to get a go on for security reasons) let us at least open an appointment directly in the calendar app.,1
 63,2861,Signal strength directly impacts video playback experience.,0
 64,2864,But reusing the operating system component saves us development effort and ensures it looks as expected as the operating system evolves.,0
@@ -72,7 +72,7 @@
 70,2913,In addition this will allow a greater prominence of XAML Standard and greater acceptance in the market and in the media.,0
 71,2927,Don't require developers to use the background task builder and background triggers just to activate an app in the background.,1
 72,2930,A control that offers hour minute & second selection would be helpful.,1
-73,2931,Add to CollectionViewSource function pointer to get the group objects not just PropertyPath,0
+73,2931,Add to CollectionViewSource function pointer to get the group objects not just PropertyPath,1
 74,2935,A DatePickerFlyout whose Date is two-way bound will update target-to-source but not source-to-target.,0
 75,2940,When functions and FallbackValue is used in an x:bind at same time the parameter must match exactly.,0
 76,2955,Playback seamlessly between one media and another,0
@@ -96,11 +96,11 @@
 94,3118,ResolveCompleted event comes after ten seconds.,0
 95,3123,d) Lines on traffic layer are blurred jagged and looking bad.,0
 96,3127,While nice looking UWP UI is not well suited for creating UI-heavy classic applications (think VisualStudio/AutoCAD/Blender/LOBs with a lot of data) that you would never want to use on tablet/phone.,0
-97,3135,If our - ISV - UWP App also have this feature we can spent more time to trying the new feature and Insider customer and testers can use it and we could got feedbacks.,1
+97,3135,If our - ISV - UWP App also have this feature we can spent more time to trying the new feature and Insider customer and testers can use it and we could got feedbacks.,0
 98,3153,Because if you currently assign a Binding a VisualState setter as below it will resolve the value of the binding and assign that to the target while you would like to assign the binding itself.,0
 99,3154,This will allow designs and implementations to change bindings depending on states and even help some states where some bindings are not required to be temporarily set to x:Null for performance (handy in complex screens).,0
 100,3167,We can see the entries added in the registry but client cannot access the interfaces.,0
-101,3176,For example lets say I want to create shorthand for aligning a control inside RelativePanel fully horizontal like AlignHorizontalWithPanel.,1
+101,3176,For example lets say I want to create shorthand for aligning a control inside RelativePanel fully horizontal like AlignHorizontalWithPanel.,0
 102,3183,Allows desktop apps to incrementally adopt UI innovations and creates a bridge to UWP for app UI.,0
 103,3184,I tried the converted app using IME.,0
 104,3188,We want to improve support Google IME.,0
@@ -184,7 +184,7 @@
 182,4169,I know it's not possible at the moment specially with all the hardware limitations but if you guys really are working on a surface phone bringing visual studio to it will be so huge.,0
 183,4177,The problem is the output port names are enumerated by the UWP API as just MIDI and not the name of the port as defined when they were setup.,0
 184,4178,Reaper and other desktop programs are displaying the proper name.,0
-185,4192,Including <windows.h> shouldn't generate compile warnings even the extra ones.,1
+185,4192,Including <windows.h> shouldn't generate compile warnings even the extra ones.,0
 186,4222,That would make all the users happy :),0
 187,4224,Hololens let's you render on 2 backbuffers(stereoscopic) but it's hard to know if the output is correct because the emulator shows just one frame.,0
 188,4228,there is a bug in UWP where special characters are interpreted as letters when using multi layered keyboard layout like the german Neo2 layout.,0
@@ -202,7 +202,7 @@
 200,4317,It has support for Linux and I think Windows should gain support too.,1
 201,4329,And the dac folder is empty.,0
 202,4353,Hello Dev Team!,0
-203,4366,In the app Settings you can disabled the swipe-open or make the swipe-in detection area wider if the user's phone makes getting close to the screen edge difficult.,1
+203,4366,In the app Settings you can disabled the swipe-open or make the swipe-in detection area wider if the user's phone makes getting close to the screen edge difficult.,0
 204,4382,So there should be a way to either swap out style XAML RsourceDictionary files and/or pieces ofâ¦ more,1
 205,4388,Any feedback is appreciated Thanks John.,0
 206,4402,XAML apps can detect it but there is no equivalent WinRT API for JS apps.,0
@@ -241,7 +241,7 @@
 239,4622,People took time to write thoughtful reviews and they're simply deleted.,0
 240,4623,I've started to continually download review reports to just have a record of them,0
 241,4624,I've had over fifty 4+ star reviews simply disappear never to be seen again.,0
-242,4625,I see the point that insiders shouldn't bring down the ratings of the app if the OS is to blame.... but with so few people rating anyway and most people being on the fast insider ring it makes it extremely hard to get reviews.,1
+242,4625,I see the point that insiders shouldn't bring down the ratings of the app if the OS is to blame.... but with so few people rating anyway and most people being on the fast insider ring it makes it extremely hard to get reviews.,0
 243,4626,Old Windows Phone 8.1 retain their status of being the most highly rated just because of this.,0
 244,4627,What's the point of having a rule if that means there's too few reviews and no point for most people to post reviews at all?,0
 245,4628,I'm not quite sure what a good solution is you cold allow only 3+ reviews for fast insiders but I guess that might skew reviews too positively.,1
@@ -326,7 +326,7 @@
 324,4873,The use of the file type filter makes no sense when you are picking a folder and it's not menioned in the documentation,0
 325,4875,Suppose we have an app with two modes like Zune - normal and mini.,0
 326,4876,In the mini mode the app only presents the indispensable and small elements on the window.,0
-327,4879,I know maybe it's not at the Microsoft's priority list but I believe we can somehow make it available.,1
+327,4879,I know maybe it's not at the Microsoft's priority list but I believe we can somehow make it available.,0
 328,4882,But that would be nice.,0
 329,4883,We do like to build universal Windows apps.,0
 330,4893,At the moment it is possible to install to the application install directory but the files there cannot be altered by the application.,0
@@ -336,7 +336,7 @@
 334,4898,A potential user viewing in the store will most likely make his judgement to download based on the number of reviews and quality of reviews (especially since the windows store does not show the total number of downloads).,0
 335,4900,So for app publishers this will be a reason to keep app updates to an absolute minimum in order to get as many ratings as possible.,0
 336,4902,Or at least Last 30 days.,0
-337,4911,I want to know it to make custom title bar that looks exactly as defult one except with my controls.,1
+337,4911,I want to know it to make custom title bar that looks exactly as defult one except with my controls.,0
 338,4912,I'm able to get SystemAccentBrush but I can't get actual window title bar's color becouse it depends on this Show accent color setting.,0
 339,4913,I've already asked the forum (where you can find the detailed description on the issue),0
 340,4917,If often mis-classify the direction.,0
@@ -395,13 +395,13 @@
 393,5023,I work around this by checking device family.,0
 394,5026,But the modern WinRT network API which is based around StreamSocket and the corresponding StreamSocketControl do not provide an option to enable TCP timestamps support.,0
 395,5027,Which is not future-proof.,0
-396,5028,Yes I know if we're C++ developers we can use the traditional Winsock API setsockopt() can do what we need but that will tied us to the old self-manage threads model which is not pleasing.,1
+396,5028,Yes I know if we're C++ developers we can use the traditional Winsock API setsockopt() can do what we need but that will tied us to the old self-manage threads model which is not pleasing.,0
 397,5030,RFC7323 tells the story in much greater detail.,0
 398,5033,I have an app in the store to make a live tile clock.,0
 399,5035,I checked with multiple clock tile apps in the store and they all have this same fundamental issue.,0
 400,5036,(blank or app logo on tile until tile notification refreshes).,0
 401,5038,Something like what HTC shipped with their Windows Phones.,0
-402,5039,In an effort to minimize overhead may the system settings could allow for only one selected clock app to be running?,1
+402,5039,In an effort to minimize overhead may the system settings could allow for only one selected clock app to be running?,0
 403,5047,Right now creating an isolated environment fails for some installers.,0
 404,5051,I was able to run the converter on build 14316 and 14352.,0
 405,5052,However on build 14383 I got this error.,0
@@ -478,7 +478,7 @@
 476,5215,Not sure if this is the right place but it seems that the makeAppx Commando doesn't like '.rels'-xml Files as added by the VS15 Setup.,0
 477,5216,I ran it multiple times yout to find the reason but it crashed with this Errors every time when it got to a '.rels' - File:,0
 478,5233,Just like an user have right for review so should developers be able to RESPOND TO EACH AND EVERY REVIEWS submitted to the Store.,1
-479,5234,If an user plans to opt out from a response from developer DO NOT EMAIL THE USER A RESPONSE but STILL ALLOW A RESPONSE TO MADE PUBLICLY VISIBLE.,1
+479,5234,If an user plans to opt out from a response from developer DO NOT EMAIL THE USER A RESPONSE but STILL ALLOW A RESPONSE TO MADE PUBLICLY VISIBLE.,0
 480,5235,Needless to say why because the current implementation is being exploited to submit false reviews and not allowing the developers to respond.,0
 481,5236,Since Application insights for mobile is discontinued soon the dev center analytics will be broken.,0
 482,5237,Actually exceptions thrown by UWP APIs are just painfully awful.,0
@@ -622,7 +622,7 @@
 620,5661,I am having difficulty testing an In App Purchase that is successful with Microsoft's servers yet somehow my app never receives that success message.,0
 621,5663,We have made a private test app and we use real money to test IAP.,0
 622,5664,This makes it hard to test when there is a $ cost to every test we perform.,0
-623,5665,I would prefer to be able to test IAP hundreds of times without having to attempt to get a refund for thousands of dollars.,1
+623,5665,I would prefer to be able to test IAP hundreds of times without having to attempt to get a refund for thousands of dollars.,0
 624,5666,This is currently not possible to test using CurrentAppSimulator.,0
 625,5667,Apple and Google also provide such a sandbox environment where IAP does not cost real money.,0
 626,5677,I have a parent application that stores files within app space.,0
@@ -635,7 +635,7 @@
 633,5690,Also as a side note - the conversion from string breaks (throws an exception) if a bound string is null or empty - however a string that is non-empty and NOT a valid uri doesn't throw.,0
 634,5698,However if you have a PIN on your system it treats that as a biometric device as well.,0
 635,5699,This is not what the documentation indicates.,0
-636,5700,UserConsentVerifier should not treat a PIN as a biometric device.,1
+636,5700,UserConsentVerifier should not treat a PIN as a biometric device.,0
 637,5702,Right now when displaying online web page in Windows 10 WebView the HSTS security feature is not working.,0
 638,5703,Also the WebView allows scripts from any source to load even though the page is loaded via HTTPS.,0
 639,5706,See these pages for testing HSTS and mixed content:,0
@@ -666,7 +666,7 @@
 664,5765,PLEASE MICROSOFT HELP!,0
 665,5770,The generated bindings code is very large and not easy to follow.,0
 666,5771,Further it doesn't even exist until compilation and even then isn't visible to the user in VS.,0
-667,5773,Need timeout on read from StreamSocket just like with old .net sockets and serialport.,1
+667,5773,Need timeout on read from StreamSocket just like with old .net sockets and serialport.,0
 668,5774,Now you have destroy the complete connection if a device on a Bluetooth serial connection does not respond.,0
 669,5775,While this makes no sense at all.,0
 670,5776,there nothing wrong with the connection it is just a serial device not responding.,0
@@ -706,7 +706,7 @@
 704,5853,Some of the capabilities are now provided by ES6 such as classses would not have to be provided by winjs.,0
 705,5855,Edge Browser VS 2015 and VS Code already provides support for ES6.,0
 706,5859,Unfortunately it is also bug-infested and lacks fundamental features expected from a graphical debugging tool in 2015.,0
-707,5867,The solution is open-sourcing WinDbg and related tools (dbghlp WinDbg extensions etc. ) which will allow the community to fix and improve what the rather small team at Microsoft doesn't manage to.,1
+707,5867,The solution is open-sourcing WinDbg and related tools (dbghlp WinDbg extensions etc. ) which will allow the community to fix and improve what the rather small team at Microsoft doesn't manage to.,0
 708,5880,At the moment it is impractical for me as a developer to keep asking my boss for his Microsoft account just to create app packages.,0
 709,5882,I have posted my 1st application on windows store with 9 keywords.,0
 710,5890,For eg in publisher name or in application name whole word partial word and so on.,0
@@ -754,7 +754,7 @@
 752,6077,Left column takes as much space as possible and I place the ComboBox into the right column.,0
 753,6078,I populate the ComboBox with a few items and run the app.,0
 754,6079,I maximize the window open the ComboBox popup (selection menu) minimize and I see the popup moved to the middle of the window.,0
-755,6082,ShowAt show the flyout with the size (width) defined in the style,1
+755,6082,ShowAt show the flyout with the size (width) defined in the style,0
 756,6083,However ShowAtAsync show the flyout with the with of the element passed in parameter and ignore the style.,0
 757,6084,I think its a bug.,0
 758,6087,I would prefer it return a boolean or an enum with the Fail reason.,1
