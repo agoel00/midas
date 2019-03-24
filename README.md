@@ -14,7 +14,7 @@
 └── root
     ├── CV_Problem
     │   ├── anmol_goel.csv
-    │   ├── midasCV2.ipynb
+    │   ├── cv.ipynb
     │   └── model_plot.png
     ├── NLP_Problem
     │   ├── NLPdiag.jpg
@@ -23,5 +23,7 @@
     └── Python_problem
         ├── tweets.jsonl
         └── tweets_scraper.ipynb
+
+4 directories, 9 files
 ```
 
